@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "14e2de367f6d9809",
+    "type": "split",
+    "children": [
+      {
+        "id": "64db6bc4684d2a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e27a9f10e59c410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_大题固定模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07_大题固定模板"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50e8e1cf5b068c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdc857282c95200e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a8068b229436d26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b5db749291189c9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b663dc8af627cd3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "062dd83593ce9a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "f70bb8804349838e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf24d21ce7858b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "做完总结_填空简答速记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "做完总结_填空简答速记 的反向链接列表"
+            }
+          },
+          {
+            "id": "80830456590f88a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "做完总结_填空简答速记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "做完总结_填空简答速记 的出链列表"
+            }
+          },
+          {
+            "id": "9256c97774b08442",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "41dc904c1066f066",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f88522fb7ab8d82e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "做完总结_填空简答速记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "做完总结_填空简答速记 的大纲"
+            }
+          },
+          {
+            "id": "0fe8a8194df58b2e",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "3e27a9f10e59c410",
+  "lastOpenFiles": [
+    "04_学习通原题口径模拟卷.md",
+    "03_学习通大题模板补充.md",
+    "01_老师原话客观题速记.md",
+    "12_独立练习题.md.tmp.2836.b018a17db69e",
+    "00_资料审计报告.md",
+    "往年试卷原文/2023-2024江农计算机网络技术实验期末卷.pdf",
+    "往年试卷原文/2022江农软工计算机网络B卷_有答案.md",
+    "往年试卷原文/2022江农大数据计算机网络B卷_有答案.md",
+    "往年试卷原文/2023-2024江农计算机网络实验期末卷.pdf",
+    "往年试卷原文/2021-2022江农计算机网络期末卷.pdf",
+    "往年试卷原文/2021-2022江农计算机网络期末卷_微信源.pdf",
+    "往年试卷原文/2021-2022江农计算机网络期末卷_微信源.md",
+    "往年试卷原文/2021-2022江农计算机网络期末卷.md",
+    "00_学习通覆盖矩阵.md",
+    "08_课后题对照补全/10_平板最终冲刺版.md",
+    "final_report.md",
+    "05_学习通变式查漏卷.md",
+    "02_学习通高频简答补充.md",
+    "三层次核心速记_物理层网络层运输层.md",
+    "三层次核心速记_物理层网络层运输层.md.tmp.2836.f34eb21dcb46",
+    "08_课后题对照补全/04_简答题固定模板.md",
+    "08_课后题对照补全/07_教材题号索引.md",
+    "12_独立练习题.md.tmp.2836.dd1c08a26157",
+    "12_独立练习题.md.tmp.2836.5d25f4d505a6",
+    "12_独立练习题.md.tmp.2836.8a1ab1e35c3b",
+    "12_独立练习题.md.tmp.2836.5d7618d34572",
+    "08_课后题对照补全/01_课后题考点覆盖矩阵.md",
+    "08_课后题对照补全/02_填空题高频速记.md",
+    "08_课后题对照补全/08_闭卷自测题.md",
+    "08_课后题对照补全/06_公式与数值速查卡.md",
+    "08_课后题对照补全/05_大题固定模板补全.md",
+    "08_课后题对照补全/00_现有资料盘点.md",
+    "01_往年试卷考点统计.md",
+    "13_2025B卷高风险补漏.md",
+    "Pasted image 20260703130136.png",
+    "Pasted image 20260703125915.png",
+    "Pasted image 20260703125507.png",
+    "07_大题固定模板.md"
+  ]
+}

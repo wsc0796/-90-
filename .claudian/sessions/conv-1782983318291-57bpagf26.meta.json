@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782983318291-57bpagf26",
+  "providerId": "claude",
+  "title": "Fix networking exam review errors",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782983318294,
+  "updatedAt": 1783060536093,
+  "lastResponseAt": 1783060536093,
+  "sessionId": "f77b818a-1abc-4a9b-bda2-7f1d04984f94",
+  "providerState": {
+    "providerSessionId": "f77b818a-1abc-4a9b-bda2-7f1d04984f94"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2415,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 166272,
+    "contextWindow": 200000,
+    "contextTokens": 168687,
+    "percentage": 84,
+    "contextWindowIsAuthoritative": true
+  }
+}
